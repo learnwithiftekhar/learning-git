@@ -1,3 +1,7 @@
 Hello World
-Hello world 2
-Hello World Again
+Hello Universe
+Drink Coffee
+Code
+Read
+Enjoy
+Repeat
